@@ -47,25 +47,25 @@ async def start_(client: Client, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "🇹𝐔𝐌𝐇𝐀𝐑𝐄 🇬𝐑𝐎𝐔𝐏 🇲𝐄 🇨𝐇𝐋𝐎", url="https://t.me/ARVI_ROBOT?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "❓ How to use Me", callback_data="cbhowtouse")
+                        "🇲𝐄𝐑𝐄 🇬𝐑𝐎𝐔𝐏 🇲𝐄 🇨𝐇𝐋𝐎", url="https://t.me/world_wide_chattt")
                 ],[
                     InlineKeyboardButton(
-                         "📚 Commands", callback_data="cbcmds"
+                         "👸🇪🅻🅸👸", url="https://t.me/eliana_072"
                     ),
                     InlineKeyboardButton(
-                        "💝 Donate", url=f"https://t.me/{OWNER_NAME}")
+                        "👸🇦🆁🆅🅸👸", url="https://t.me/forever_angel_0")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "🤖𝙅𝙊𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇🤖", url="https://t.me/ABOUT_ARVI"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "📚𝑴𝒀 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺📚", call_backdata="cbcmds")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Source Code 🧪", url="https://github.com/QueenArzoo/VCPlayBot"
+                        "🇼𝗛𝗔𝗧𝗦𝗔𝗣𝗣  𝙄𝗡𝗦𝗧𝗔 🇸𝗧𝗢𝗥𝗬", url="https://t.me/Whatsapp_Insta_Story"
                     )
                 ]
             ]
@@ -85,10 +85,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ Group", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "🇲𝐄𝐑𝐄 🇬𝐑𝐎𝐔𝐏 🇲𝐄 🇨𝐇𝐋𝐎", url="https://t.me/world_wide_chattt"
                     ),
                     InlineKeyboardButton(
-                        "📣 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🤖𝙅𝙊𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇🤖", url=f"https://t.me/ABOUT_ARVI"
                     )
                 ]
             ]
@@ -121,7 +121,7 @@ async def help_(client: Client, message: Message):
 
 **in this menu you can open several available command menus, in each command menu there is also a brief explanation of each command**
 
-⚡ __Powered by {BOT_NAME} A.I__""",
+⚡ __Powered by ARVI MUSICS A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
