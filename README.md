@@ -47,10 +47,11 @@
 </p>
 
 <br>
-- Support Channel :- [Awesome Bot](http://t.me/LaylaList)
 
-- Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
 
+<a href="https://t.me/world_wide_chattt"><img src="https://img.shields.io/badge/CHAT GROUP%20-ARVI--%F0%9D%91%BF-green?&logo=telegram&style=social" width=400px></a></p>
+
+<a href="https://t.me/ABOUT_Arvi"><img src="https://img.shields.io/badge/SUPPORT CHANNEL%20-ARVI--%F0%9D%91%BF-green?&logo=telegram&style=social" width=400px></a></p>
 
 ```
 Please fork this repository don't import code
