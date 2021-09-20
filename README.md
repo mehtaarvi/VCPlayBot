@@ -14,7 +14,7 @@
 <h2 align="center"><b>Owner: <a href="https://t.me/FOREVER_ANGEL_0">👸🇦🆁🆅🅸👸</a></b></h2>
 
 
-* OWNER:
+# OWNER:
 
 <p align="center">
 
@@ -23,7 +23,17 @@
 </p>
 
 <br>
+If you donlt like to play in linked channel:
 
+ 1. Get your channel ID.
+
+ 2. Rename your group to: Channel Music: your_channel_id
+
+ 3. Add @VCPlayBot as Channel admin with full perms
+
+ 4. add helper to channel
+
+ 5. Simply send commands in your group.
 # DEPLOY TO HEROKU
 
 * With mehtaarvi:
@@ -82,7 +92,7 @@ Made with Python3
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
-Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
+
 
 
 
@@ -117,12 +127,7 @@ For linked group admins only:
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
 
-If you donlt like to play in linked channel:
- 1. Get your channel ID.
- 2. Rename your group to: Channel Music: your_channel_id
- 3. Add @VCPlayBot as Channel admin with full perms
- 4. add helper to channel
- 5. Simply send commands in your group.
+
 
 ### Commands for Sudo Users ⚔️
 - `/userbotleaveall` - remove assistant from all chats
@@ -134,7 +139,4 @@ If you donlt like to play in linked channel:
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
-#### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- [Awesome Bot](http://t.me/LaylaList) Channel bot list
-- [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
+
