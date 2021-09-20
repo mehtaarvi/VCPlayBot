@@ -25,7 +25,17 @@
 
 <br>
 
+# STRING NAME 
 
+* CLICK ON :
+
+<p align="center">
+
+   <a href = "https://replit.com/@QueenArzoo/VCPlayBot"><img src="https://telegra.ph/file/e49eb57ea36f724a6fc06.jpg" alt="Press to Takeoff" width="490px"></a>
+
+</p>
+
+<br>
 - Support Channel :- [Awesome Bot](http://t.me/LaylaList)
 
 - Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
