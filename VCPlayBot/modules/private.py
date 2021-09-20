@@ -62,7 +62,7 @@ async def start_(client: Client, message: Message):
                         "🤖𝙅𝙊𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇🤖", url="https://t.me/ABOUT_ARVI"
                     ),
                     InlineKeyboardButton(
-                        "📚𝑴𝒀 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺📚", call_backdata="cbcmds")
+                        "📚𝑴𝒀 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺📚", callback_data="cbcmds")
                 ],[
                     InlineKeyboardButton(
                         "🇼𝗛𝗔𝗧𝗦𝗔𝗣𝗣  𝙄𝗡𝗦𝗧𝗔 🇸𝗧𝗢𝗥𝗬", url="https://t.me/Whatsapp_Insta_Story"
