@@ -47,7 +47,7 @@ async def start_(client: Client, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "🇹𝐔𝐌𝐇𝐀𝐑𝐄 🇬𝐑𝐎𝐔𝐏 🇲𝐄 🇨𝐇𝐋𝐎", url="https://t.me/ARVI_ROBOT?startgroup=true")
+                        "🇹𝐔𝐌𝐇𝐀𝐑𝐄 🇬𝐑𝐎𝐔𝐏 🇲𝐄 🇨𝐇𝐋𝐎", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
                         "🇲𝐄𝐑𝐄 🇬𝐑𝐎𝐔𝐏 🇲𝐄 🇨𝐇𝐋𝐎", url="https://t.me/world_wide_chattt")
